@@ -1,0 +1,19 @@
+{
+  "name": "מלאי בשרים",
+  "short_name": "מלאי",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#222222",
+  "dir": "rtl",
+  "lang": "he",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
